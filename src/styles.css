@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: 'Avenir Next Heavy';
+    src: url('assets/fonts/AvenirNext-Heavy.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Book Antiqua';
+    src: url('assets/fonts/BKANT.TTF') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Book Antiqua Bold';
+    src: url('assets/fonts/ANTQUAB.TTF') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Book Antiqua Bold Cursiva';
+    src: url('assets/fonts/ANTQUABI.TTF') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Book Antiqua Cursiva';
+    src: url('assets/fonts/ANTQUAI.TTF') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+.llegando {
+    font-family: 'Avenir Next Heavy';
+}
+
+.llegando-texto {
+    font-family: 'Book Antiqua Bold Cursiva';
+}
+
+h1 h2 h3 {
+    font-family: 'Avenir Next Heavy';
+}
+
+p {
+    font-family: Book Antiqua;
+}
