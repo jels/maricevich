@@ -1,0 +1,52 @@
+:root {
+    --jmp-color: #A329CC;
+    --jmp-color-gray: #808080;
+    --jmp-color-white: #FFFFFF;
+    --jmp-color-black: #000000;
+
+    
+}
+
+@font-face {
+    font-family: 'Avenir Next Heavy';
+    src: url('../assets/fonts/AvenirNext-Heavy.ttf');
+}
+
+@font-face {
+    font-family: 'Book Antiqua';
+    src: url('../assets/fonts/BKANT.TTF');
+}
+
+@font-face {
+    font-family: 'Book Antiqua Cursiva';
+    src: url('../assets/fonts/ANTQUAI.TTF');
+}
+
+@font-face {
+    font-family: 'Book Antiqua Negrita';
+    src: url('../assets/fonts/ANTQUAB.TTF');
+}
+
+@font-face {
+    font-family: 'Book Antiqua Negrita Cursiva';
+    src: url('../assets/fonts/ANTQUABI.TTF');
+}
+
+.llegando {
+    font-family: 'Book Antiqua Negrita Cursiva';
+    color: var(--jmp-color);
+}
+
+.llegando-parrafo {
+    font-family: 'Book Antiqua Cursiva';
+    color: var(--jmp-color);
+
+}
+
+.btncolor-jmp{
+    color: var(--jmp-color);
+}
+
+.textcolor-jmp{
+    color: var(--jmp-color);
+}
